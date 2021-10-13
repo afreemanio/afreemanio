@@ -12,3 +12,8 @@
     From <a href="https://github.com/afreemanio/afreemanio">afreemanio</a>
   </p>
 </samp>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=afreemanio&label=Views&color=lightgrey&style=flat-square" alt="afreemanio" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afreemanio&show_icons=true&theme=dark&hide_border=true&locale=en" alt="afreemanio" width="9000" height="150"></p>
+
