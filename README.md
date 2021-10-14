@@ -9,11 +9,16 @@
 <samp>
   <p align="center">
     ════ ❤️ ════<br>
-    From <a href="https://github.com/afreemanio/afreemanio">afreemanio</a>
+    From <a href="https://github.com/afreemanio/afreemanio">afreemanio</a><br>
+    ════ ❤️ ════
   </p>
 </samp>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=afreemanio&label=Views&color=lightgrey&style=flat-square" alt="afreemanio" /> </p>
 
+<p align="center">
+    <a align="center" href="https://afreeman.io"> portfolio </a> /
+    <a align="center" href="mailto:andrewfreeman234@gmail.com">email</a> /
+    <a align="center" href="https://www.linkedin.com/in/afreemanio/">linkedin</a>
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afreemanio&show_icons=true&theme=dark&hide_border=true&locale=en" alt="afreemanio" width="9000" height="150"></p>
-
