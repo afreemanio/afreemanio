@@ -14,7 +14,7 @@
   </p>
 </samp>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=afreemanio&label=Visitors&color=blue&style=flat-square" alt="afreemanio" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=afreemanio&label=Visitors++&color=blue&style=flat-square" alt="afreemanio" /> </p>
 
 <p align="center">
     <a align="center" href="https://afreeman.io"> portfolio </a> /
