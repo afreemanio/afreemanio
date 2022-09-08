@@ -2,7 +2,7 @@
 <p align="center"><br>
   <samp>
     Software Developer @ <b>CBS Inc.</b> <br>
-    Bachelor of Science in Computing Science Student @ <b>The King's University</b> <br>
+    Bachelor of Science in Computing Science @ <b>The King's University</b> <br>
   </samp>
 </p>
 <br>
