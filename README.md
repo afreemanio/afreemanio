@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hi there! My name is <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://afreeman.io">Andrew Freeman</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    Software Developer @ <b>CBS Inc.</b> <br>
+    Software Developer
     Bachelor of Science in Computing Science @ <b>The King's University</b> <br>
   </samp>
 </p>
