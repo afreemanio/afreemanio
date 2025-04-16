@@ -9,7 +9,7 @@
 <samp>
   <p align="center">
     ════ ❤️ ════<br>
-    From <a href="https://github.com/afreemanio/afreemanio">afreemanio</a><br>
+    From afreemanio<br>
     ════ ❤️ ════
   </p>
 </samp>
